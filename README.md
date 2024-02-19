@@ -2,8 +2,7 @@
 
 # NIKIT GOKHE 🚀
 
-📍 New York City, NY | 📧 nikittarachand.gokhe@pace.edu | 📞 +1 (551)-339-5513
-🔗 [LinkedIn](insert_linkedin_profile_here) | 🔗 [GitHub](insert_github_profile_here)
+📍 New York City, NY | 📧 nikitgokhe@gmail.com | 🔗 [LinkedIn](insert_linkedin_profile_here) | 🔗 [GitHub](insert_github_profile_here)
 
 ---
 
