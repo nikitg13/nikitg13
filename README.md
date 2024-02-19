@@ -2,7 +2,7 @@
 
 # NIKIT GOKHE 🚀
 
-📍 New York City, NY | 📧 nikitgokhe@gmail.com | 🔗 [LinkedIn](insert_linkedin_profile_here) | 🔗 [GitHub](insert_github_profile_here)
+📍 New York City, NY | 📧 nikitgokhe@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/nikit-gokhe-61430a171/) | 🔗 [GitHub](https://github.com/nikitg13)
 
 ---
 
