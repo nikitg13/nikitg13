@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My Name is NIKIT GOKHE 🚀
-# Software Engineer | Data Analyst | Java | React | Node.js | Python | Machine Learning | SQL | Power BI | Tableau | Data Visualization
+### Software Engineer | Data Analyst | Java | React | Node.js | Python | Machine Learning | SQL | Power BI | Tableau | Data Visualization
 
 📍 New York City, NY | 📧 nikitgokhe@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/nikit-gokhe-61430a171/) | 🔗 [GitHub](https://github.com/nikitg13)
 
