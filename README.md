@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# NIKIT GOKHE 🚀
+# My Name is NIKIT GOKHE 🚀
+# Software Engineer | Data Analyst | Java | React | Node.js | Python | Machine Learning | SQL | Power BI | Tableau | Data Visualization
 
 📍 New York City, NY | 📧 nikitgokhe@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/nikit-gokhe-61430a171/) | 🔗 [GitHub](https://github.com/nikitg13)
 
@@ -11,12 +12,12 @@
 - **Master of Science (MS) in Information Systems**
   - Pace University, Seidenberg School of Computer Science and Information Systems
   - GPA: 3.93/4.00
-  - May 2024
+  - September 2022 - May 2024
 
 - **Bachelor of Technology (BTech) in Computer Engineering**
   - Vishwakarma Institute of Information Technology, Pune, India
   - GPA: 9.43/10.00
-  - July 2022
+  - August 2018 - May 2022
 
 ---
 
@@ -26,16 +27,19 @@
 Java, Python, C / C++, R, JavaScript, Node.js, React.js, HTML5, CSS3, Flutter, JQuery, Angular.js
 
 ### Database Management:
-Relational Databases, MySQL, Oracle, PostgreSQL, MongoDB, PHP, SQL Server, Microsoft Azure Cloud
+Relational Databases, MySQL, Oracle, PostgreSQL, NoSQL, MongoDB, PHP, SQL Server, AWS, Microsoft Azure Cloud, GCP
 
 ### Software:
-Visual Studio Code, IntelliJ, Eclipse, Jupyter Notebook, Google Colab, Postman, Canva, Jenkins, Jira, Microsoft Office
+Visual Studio Code, IntelliJ, Eclipse, Jupyter Notebook, Google Colab, Postman, Canva, Jenkins, Jira, Docker, Kubernetes, Microsoft Office Suite
 
 ### Data Visualization Tools:
 Microsoft Power BI, Tableau, Google Trends, Microsoft Excel
 
 ### Libraries:
-NumPy, Pandas, Matplotlib
+Pandas, NumPy, Matplotlib, TensorFlow, SciKit-Learn, SciPy, dplyr, ggplot2, tidyr, shiny
+
+### Certifications
+Cisco CCNAv7: Introduction to Networks, AWS Essential Training for Developers, Google Crash Course on Python
 
 ---
 
@@ -45,40 +49,21 @@ NumPy, Pandas, Matplotlib
 **eQ Technologic, Pune, India**
 January 2022 – August 2022
 
-- Designed and implemented APIs using Java, Spring Boot, and Oracle to optimize database usage.
-- Integrated Kafka for seamless communication between microservices and streamlined data flow.
-- Resolved over 30 defects, ensuring 100% functional efficiency.
-- Utilized Agile methodologies for iterative development, ensuring project alignment with timelines and expectations.
 
-### Project Intern
-**Studium, Pune, India**
+### Web Developer Intern
+**Studium Tech, Pune, India**
 August 2021 – December 2021
 
-- Led a team in full-stack development, implementing RESTful APIs and integrating third-party APIs.
-- Collaborated on backend functionalities using Node.js and Express.js.
-- Coordinated website deployment and maintenance activities, including version control with Git and continuous integration with Jenkins.
-- Facilitated the creation and maintenance of technical documentation, including code reviews and user stories.
+
+### Data Engineer Intern
+**Synnex SoftTech, Pune, India**
+August 2021 – December 2021
 
 ---
 
-## ACADEMIC PROJECTS 📚
-
-### Credit Card Approval Prediction (March 2023 – May 2023)
-- Developed a credit card approval prediction model in R with 98% accuracy.
-- Conducted data cleaning and preprocessing for dataset quality assurance.
-- Utilized classification algorithms such as logistic regression and decision trees.
-
-### Efficient Data Storage for E-commerce (October 2022 – December 2022)
-- Analyzed and transformed an extensive dataset of online sales into a systematic MySQL database.
-- Normalized tables for efficient data storage and management.
-
-### Quick Accreditation: Performance Tracker for Engineering Institutes in India (September 2021 – December 2021)
-- Developed a web application using MERN stack for performance tracking.
-- Visualized institute performance using Google charts API.
-
----
 
 Feel free to connect and explore my projects further! 💬 Looking forward to collaborating and learning together!
+Hit me with queries @ nikitgokhe@gmail.com
 
 
 <!--
